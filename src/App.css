@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+body,
+input {
+  box-sizing: border-box;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
